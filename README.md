@@ -9,5 +9,5 @@ To use:
 3- Repeat to create up to 5 areas.
 4- Click on a color to be tracked.
 
-- motionTracker sends the OSC message "/boxNumber" followed by an integer.
+- motionTracker sends the OSC message "/boxNumber" followed by an integer @ localhost:8000.
 
