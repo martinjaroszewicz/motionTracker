@@ -98,12 +98,12 @@ void ofApp::draw(){
     
     //draw all cv images
     rgb.draw(0,0);
-    hsb.draw(640,0);
-    hue.draw(0,240);
-    sat.draw(320,240);
-    bri.draw(640,240);
-    filtered.draw(0,480);
-    contours.draw(0,480);
+   // hsb.draw(640,0);
+   // hue.draw(0,240);
+   // sat.draw(320,240);
+   // bri.draw(640,240);
+   // filtered.draw(0,480);
+   // contours.draw(0,480);
     
     ofSetColor(255, 0, 0);
     ofFill();
